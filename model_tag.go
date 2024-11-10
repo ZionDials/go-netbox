@@ -26,8 +26,8 @@ type Tag struct {
 	DisplayUrl           string       `json:"display_url"`
 	Display              string       `json:"display"`
 	Name                 string       `json:"name"`
-	Slug                 string       `json:"slug"`
-	Color                *string      `json:"color,omitempty"`
+	Slug                 string       `json:"slug" validate:"regexp=^[-\\\\w]+$"`
+	Color                *string      `json:"color,omitempty" validate:"regexp=^[0-9a-f]{6}$"`
 	Description          *string      `json:"description,omitempty"`
 	ObjectTypes          []string     `json:"object_types,omitempty"`
 	TaggedItems          int64        `json:"tagged_items"`

@@ -26,7 +26,7 @@ type User struct {
 	DisplayUrl string `json:"display_url"`
 	Display    string `json:"display"`
 	// Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.
-	Username  string  `json:"username"`
+	Username  string  `json:"username" validate:"regexp=^[\\\\w.@+-]+$"`
 	FirstName *string `json:"first_name,omitempty"`
 	LastName  *string `json:"last_name,omitempty"`
 	Email     *string `json:"email,omitempty"`

@@ -27,7 +27,7 @@ type RackType struct {
 	Display      string                 `json:"display"`
 	Manufacturer BriefManufacturer      `json:"manufacturer"`
 	Model        string                 `json:"model"`
-	Slug         string                 `json:"slug"`
+	Slug         string                 `json:"slug" validate:"regexp=^[-a-zA-Z0-9_]+$"`
 	Description  *string                `json:"description,omitempty"`
 	FormFactor   NullableRackFormFactor `json:"form_factor,omitempty"`
 	Width        *RackWidth             `json:"width,omitempty"`

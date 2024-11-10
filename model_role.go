@@ -26,7 +26,7 @@ type Role struct {
 	DisplayUrl           string                 `json:"display_url"`
 	Display              string                 `json:"display"`
 	Name                 string                 `json:"name"`
-	Slug                 string                 `json:"slug"`
+	Slug                 string                 `json:"slug" validate:"regexp=^[-a-zA-Z0-9_]+$"`
 	Weight               *int32                 `json:"weight,omitempty"`
 	Description          *string                `json:"description,omitempty"`
 	Tags                 []NestedTag            `json:"tags,omitempty"`

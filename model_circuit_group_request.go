@@ -21,7 +21,7 @@ var _ MappedNullable = &CircuitGroupRequest{}
 // CircuitGroupRequest Adds support for custom fields and tags.
 type CircuitGroupRequest struct {
 	Name                 string                     `json:"name"`
-	Slug                 string                     `json:"slug"`
+	Slug                 string                     `json:"slug" validate:"regexp=^[-a-zA-Z0-9_]+$"`
 	Description          *string                    `json:"description,omitempty"`
 	Tenant               NullableBriefTenantRequest `json:"tenant,omitempty"`
 	Tags                 []NestedTagRequest         `json:"tags,omitempty"`

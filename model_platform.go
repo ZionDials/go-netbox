@@ -26,7 +26,7 @@ type Platform struct {
 	DisplayUrl           string                      `json:"display_url"`
 	Display              string                      `json:"display"`
 	Name                 string                      `json:"name"`
-	Slug                 string                      `json:"slug"`
+	Slug                 string                      `json:"slug" validate:"regexp=^[-a-zA-Z0-9_]+$"`
 	Manufacturer         NullableBriefManufacturer   `json:"manufacturer,omitempty"`
 	ConfigTemplate       NullableBriefConfigTemplate `json:"config_template,omitempty"`
 	Description          *string                     `json:"description,omitempty"`

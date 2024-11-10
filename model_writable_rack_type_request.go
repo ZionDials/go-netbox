@@ -22,7 +22,7 @@ var _ MappedNullable = &WritableRackTypeRequest{}
 type WritableRackTypeRequest struct {
 	Manufacturer BriefManufacturerRequest                 `json:"manufacturer"`
 	Model        string                                   `json:"model"`
-	Slug         string                                   `json:"slug"`
+	Slug         string                                   `json:"slug" validate:"regexp=^[-a-zA-Z0-9_]+$"`
 	Description  *string                                  `json:"description,omitempty"`
 	FormFactor   PatchedWritableRackTypeRequestFormFactor `json:"form_factor"`
 	Width        *PatchedWritableRackRequestWidth         `json:"width,omitempty"`

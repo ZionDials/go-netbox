@@ -97,7 +97,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -161,7 +161,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -227,7 +227,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -293,7 +293,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -359,7 +359,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -428,7 +428,7 @@ import (
 	"fmt"
 	"os"
     "time"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -578,7 +578,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -650,7 +650,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -720,7 +720,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -792,7 +792,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -856,7 +856,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -922,7 +922,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -988,7 +988,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -1054,7 +1054,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -1123,7 +1123,7 @@ import (
 	"fmt"
 	"os"
     "time"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -1329,7 +1329,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -1401,7 +1401,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -1471,7 +1471,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -1543,7 +1543,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -1607,7 +1607,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -1673,7 +1673,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -1739,7 +1739,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -1805,7 +1805,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -1874,7 +1874,7 @@ import (
 	"fmt"
 	"os"
     "time"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -2130,7 +2130,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -2202,7 +2202,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -2272,7 +2272,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -2342,7 +2342,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -2414,7 +2414,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -2478,7 +2478,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -2544,7 +2544,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -2610,7 +2610,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -2676,7 +2676,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -2745,7 +2745,7 @@ import (
 	"fmt"
 	"os"
     "time"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -2957,7 +2957,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -3029,7 +3029,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -3099,7 +3099,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -3171,7 +3171,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -3235,7 +3235,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -3301,7 +3301,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -3367,7 +3367,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -3433,7 +3433,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -3502,7 +3502,7 @@ import (
 	"fmt"
 	"os"
     "time"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -3822,7 +3822,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -3894,7 +3894,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -3964,7 +3964,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4036,7 +4036,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4100,7 +4100,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4166,7 +4166,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4232,7 +4232,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4298,7 +4298,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4367,7 +4367,7 @@ import (
 	"fmt"
 	"os"
     "time"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4565,7 +4565,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4637,7 +4637,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4707,7 +4707,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4779,7 +4779,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4843,7 +4843,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4909,7 +4909,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -4975,7 +4975,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -5041,7 +5041,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -5110,7 +5110,7 @@ import (
 	"fmt"
 	"os"
     "time"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -5308,7 +5308,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -5380,7 +5380,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -5450,7 +5450,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -5522,7 +5522,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -5586,7 +5586,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -5652,7 +5652,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -5718,7 +5718,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -5784,7 +5784,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -5853,7 +5853,7 @@ import (
 	"fmt"
 	"os"
     "time"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -6087,7 +6087,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -6159,7 +6159,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {
@@ -6229,7 +6229,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/netbox-community/go-netbox/v4"
+	openapiclient "github.com/ziondials/go-netbox/v4"
 )
 
 func main() {

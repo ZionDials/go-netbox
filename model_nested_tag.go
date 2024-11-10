@@ -25,8 +25,8 @@ type NestedTag struct {
 	DisplayUrl           string  `json:"display_url"`
 	Display              string  `json:"display"`
 	Name                 string  `json:"name"`
-	Slug                 string  `json:"slug"`
-	Color                *string `json:"color,omitempty"`
+	Slug                 string  `json:"slug" validate:"regexp=^[-\\\\w]+$"`
+	Color                *string `json:"color,omitempty" validate:"regexp=^[0-9a-f]{6}$"`
 	AdditionalProperties map[string]interface{}
 }
 

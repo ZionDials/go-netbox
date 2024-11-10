@@ -25,7 +25,7 @@ type NestedTenantGroup struct {
 	DisplayUrl           string `json:"display_url"`
 	Display              string `json:"display"`
 	Name                 string `json:"name"`
-	Slug                 string `json:"slug"`
+	Slug                 string `json:"slug" validate:"regexp=^[-a-zA-Z0-9_]+$"`
 	Depth                int32  `json:"_depth"`
 	AdditionalProperties map[string]interface{}
 }

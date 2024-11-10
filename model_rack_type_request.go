@@ -22,7 +22,7 @@ var _ MappedNullable = &RackTypeRequest{}
 type RackTypeRequest struct {
 	Manufacturer BriefManufacturerRequest      `json:"manufacturer"`
 	Model        string                        `json:"model"`
-	Slug         string                        `json:"slug"`
+	Slug         string                        `json:"slug" validate:"regexp=^[-a-zA-Z0-9_]+$"`
 	Description  *string                       `json:"description,omitempty"`
 	FormFactor   NullableRackRequestFormFactor `json:"form_factor,omitempty"`
 	Width        *RackWidthValue               `json:"width,omitempty"`
